@@ -1,10 +1,4 @@
-## Hi there 👋
-
-
-**ChetanVarunKanipakam/ChetanVarunKanipakam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-# 👋 Hi, I'm K Chetan Varun!
+# 👋 Hello there,Ohayiyo gozaisimasu, I'm Kanipakam Chetan Varun!
 
 ### 🎯 A Tech Enthusiast | CSE Undergraduate | Problem Solver
 

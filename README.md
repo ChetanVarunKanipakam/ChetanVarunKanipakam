@@ -75,7 +75,7 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 ---
 
 ### 😎 Fun Fact
-
+<!--
 > I want to build interfaces that impress **10 girls at once** and still pass a code review! 💫
 
 ---

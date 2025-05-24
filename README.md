@@ -60,9 +60,9 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 ### 🎓 Education
 
-- 🏫 **School**: Camford English High School  
-- 🏢 **PUC**: RGUKT, R.K. Valley  
-- 🎓 **B.Tech (CSE)**: RGUKT, R.K. Valley
+- 🏫 **School**: Camford English High School 
+- 🏢 **PUC**: RGUKT, R.K. Valley  (9.79/10)
+- 🎓 **B.Tech (CSE)**: RGUKT, R.K. Valley (8.57)
 
 ---
 

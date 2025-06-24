@@ -73,7 +73,36 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 - 💻 **GitHub**: [@ChetanVarunKanipakam](https://github.com/ChetanVarunKanipakam)
 
 ---
+## ❤️ Let's get connected:
+<!--
+<p align="left">
+	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
+		<img alt="Github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
+	</a>
+	<a href="https://twitter.com/arjun3104" target="_blank">
+		<img alt="x" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter-x.svg" />
+	</a> 
+ -->
+	<a href="https://www.linkedin.com/in/chetan-varun-50aa5a328/" target="_blank">
+		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40"/>
+	</a>
+	<a href="https://www.leetcode.com/u/Chetan2707/" target="_blank">
+		<img alt="LinkedIn" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/>
+	</a>
+</p>
+<br/>
 
+## 📊 My GitHub Data:
+<div align="center">
+	<div>
+		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChetanVarunKanipakam&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
+	</div>
+	<div>
+		<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ChetanVarunKanipakam&show_icons=true&title_color=ffffff&amp&icon_color=ffff&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>
+	</div>
+	<div>
+		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanvarunKanipakam&theme=black-ice&stroke=ffffff&background=000000&ring=ffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
+	</div>
 ### 😎 Fun Fact
 <!--
 > I want to build interfaces that impress **10 girls at once** and still pass a code review! 💫

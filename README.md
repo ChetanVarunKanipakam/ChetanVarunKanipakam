@@ -74,8 +74,9 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 ---
 ## ❤️ Let's get connected:
-<!--
+
 <p align="left">
+<!--
 	<a href="https://nagarjuna0033.github.io/portfolio/" target="_blank">
 		<img alt="Github" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30px" />
 	</a>

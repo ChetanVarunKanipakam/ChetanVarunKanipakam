@@ -3,7 +3,7 @@
 ### 🎯 A Tech Enthusiast | CSE Undergraduate | Problem Solver
 
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChetanVarunKanipakam&label=Profile%20views&color=0e75b6&style=flat" alt="ChetanVarunKanipakam" /> </p>
 ### 🚀 About Me
 
 I'm passionate about building tech that blends **logic and design**. Whether it's **AI**, **full-stack development**, or **design systems**, I enjoy creating software that’s not only **functional** but also **beautiful**.

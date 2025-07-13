@@ -4,6 +4,7 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChetanVarunKanipakam&label=Profile%20views&color=0e75b6&style=flat" alt="ChetanVarunKanipakam" /> </p>
+
 ### 🚀 About Me
 
 I'm passionate about building tech that blends **logic and design**. Whether it's **AI**, **full-stack development**, or **design systems**, I enjoy creating software that’s not only **functional** but also **beautiful**.
@@ -53,8 +54,18 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 ### 💡 Projects
 
+
+- **Campus Vinculum**
+  A university Management platform with integrated chat bot and realtime messaging.
+
 - **Face-Based Mess Management**  
   A smart system using facial recognition for mess entry logging and dynamic payment calculations.
+
+ - **Packers and movers**
+  A ML project which calculated the cost for movement of some goods from one place to another place.
+
+ - **RAS**
+  A Restaurant automation system built to automate the items availability based on inventory availability.
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hello there,Ohayiyo gozaisimasu, I'm Kanipakam Chetan Varun!
+# 👋 Hello there,Ohayo gozaimasuuu, I'm Kanipakam Chetan Varun!
 
 ### 🎯 A Tech Enthusiast | CSE Undergraduate | Problem Solver
 
@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm passionate about building tech that blends **logic and design**. Whether it's **AI**, **full-stack development**, or **design systems**, I enjoy creating software that’s not only **functional** but also **beautiful**.
+I'm passionate about building tech that blends **logic and design**. Whether it's **AI**, **full-stack development**, or **design systems**, I enjoy creating software that’s **functional**.
 
 ---
 
@@ -47,7 +47,7 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 - 🎖 **AIR 844 in GATE CS 2025**  
   _Demonstrates strong fundamentals in CS and Engineering Mathematics._
 
-- 🌐 **Rank 779 in Leetcode Weekly Contest 448**  
+- 🌐 **Leetcode knight-1876**  
   _Global DSA performance._
 
 ---
@@ -58,9 +58,6 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 - **Campus Vinculum**
   A university Management platform with integrated chat bot and realtime messaging.
 
-- **Face-Based Mess Management**  
-  A smart system using facial recognition for mess entry logging and dynamic payment calculations.
-
  - **Packers and movers**
   A ML project which calculated the cost for movement of some goods from one place to another place.
 
@@ -69,13 +66,6 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 ---
 
-### 🎓 Education
-
-- 🏫 **School**: Camford English High School 
-- 🏢 **PUC**: RGUKT, R.K. Valley  (9.79/10)
-- 🎓 **B.Tech (CSE)**: RGUKT, R.K. Valley (8.57)
-
----
 
 ### 📬 Contact Me
 
@@ -104,6 +94,7 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 </p>
 <br/>
 
+
 ## 📊 My GitHub Data:
 <div align="center">
 	<div>
@@ -115,7 +106,12 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 	<div>
 		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanvarunKanipakam&theme=black-ice&stroke=ffffff&background=000000&ring=ffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
 	</div>
-### 😎 Fun Fact
+	
+## 😎 Fun Fact
+
+Eating stimulates my brain to find solutions which thinking can't do😄.
+
+
 <!--
 > I want to build interfaces that impress **10 girls at once** and still pass a code review! 💫
 

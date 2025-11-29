@@ -58,11 +58,11 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 - **Campus Vinculum**
   A university Management platform with integrated chat bot and realtime messaging.
 
- - **Packers and movers**
-  A ML project which calculated the cost for movement of some goods from one place to another place.
+ - **Community Disaster Management System**
+  A Cross Platform App to see nearby incidents posted by citizens and assign volunteers through admin dashboard.
 
- - **RAS**
-  A Restaurant automation system built to automate the items availability based on inventory availability.
+ - **University Placement App**
+  A Cross Platform App to digitalize university placements.
 
 ---
 
@@ -98,7 +98,7 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 ## 📊 My GitHub Data:
 <div align="center">
 	<div>
-		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChetanVarunKanipakam&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="nagarjuna0033" />
+		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChetanVarunKanipakam&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Chetan Varun" />
 	</div>
 	<div>
 		<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ChetanVarunKanipakam&show_icons=true&title_color=ffffff&amp&icon_color=ffff&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>

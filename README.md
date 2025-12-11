@@ -96,17 +96,15 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 
 ## 📊 My GitHub Data:
-<div align="center">
-	<div>
-		<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChetanVarunKanipakam&show_icons=true&locale=en&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Chetan Varun" />
-	</div>
-	<div>
-		<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ChetanVarunKanipakam&show_icons=true&title_color=ffffff&amp&icon_color=ffff&amp&text_color=ffffff&amp&bg_color=000000&count_private=true&disable_animations=false&include_all_commits=true&show=reviews,prs_merged_percentage"/>
-	</div>
-	<div>
-		<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChetanvarunKanipakam&theme=black-ice&stroke=ffffff&background=000000&ring=ffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak" />
-	</div>
-	
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanvarunkanipakam" alt="chetanvarunkanipakam" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanvarunkanipakam&show_icons=true&locale=en&layout=compact" alt="chetanvarunkanipakam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanvarunkanipakam&show_icons=true&locale=en" alt="chetanvarunkanipakam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanvarunkanipakam&" alt="chetanvarunkanipakam" /></p>
+
 ## 😎 Fun Fact
 
 Eating stimulates my brain to find solutions which thinking can't do😄.

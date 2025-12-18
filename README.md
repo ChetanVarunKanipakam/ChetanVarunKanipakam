@@ -97,7 +97,6 @@ I'm passionate about building tech that blends **logic and design**. Whether it'
 
 ## 📊 My GitHub Data:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanvarunkanipakam" alt="chetanvarunkanipakam" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chetanvarunkanipakam&show_icons=true&locale=en&layout=compact" alt="chetanvarunkanipakam" /></p>
 
